@@ -8,6 +8,6 @@
 2. **embedding是干嘛的？**
 
 3. **V是干嘛的？**
->[transformer原理解读](https://www.bilibili.com/video/BV16EK1zbEpT?spm_id_from=333.788.videopod.episodes&vd_source=251c62c44a57f3794b5f1c23f7913b1e&p=11)
+>[transformer原理解读](https://www.bilibili.com/video/BV16EK1zbEpT?spm_id_from=333.788.videopod.episodes&vd_source=251c62c44a57f3794b5f1c23f7913b1e&p=11)  2022年10月的视频
 
 【注】：这个前面Query和Key的运算将得倒是挺好的。

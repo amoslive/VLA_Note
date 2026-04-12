@@ -9,3 +9,5 @@
 [《杀死卷积：Transformer如何暴力接管计算机视觉》](https://www.bilibili.com/video/BV17324BXENw/?spm_id_from=333.337.search-card.all.click&vd_source=251c62c44a57f3794b5f1c23f7913b1e)
 
 [Transformer最好出创新点的模块—Cross Attention（交叉注意力机制）,跨模态神器，涨点必备！](https://www.bilibili.com/video/BV1cSpWz2ESa/?spm_id_from=333.337.search-card.all.click&vd_source=251c62c44a57f3794b5f1c23f7913b1e)
+
+[transformer原理讲解](https://www.bilibili.com/video/BV13cRYY9ELU/?spm_id_from=333.337.search-card.all.click&vd_source=251c62c44a57f3794b5f1c23f7913b1e)

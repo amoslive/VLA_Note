@@ -5,3 +5,5 @@
 [一些小疑惑](/question.md)
 
 [想明白的](/QA_solved.md)
+
+[好的教程](/good_tutorial.md)

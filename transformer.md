@@ -13,3 +13,7 @@
 [transformer原理讲解](https://www.bilibili.com/video/BV13cRYY9ELU/?spm_id_from=333.337.search-card.all.click&vd_source=251c62c44a57f3794b5f1c23f7913b1e)
 
 [【闪客】一小时从函数到 Transformer](https://www.bilibili.com/video/BV1NCgVzoEG9?spm_id_from=333.788.videopod.sections&vd_source=251c62c44a57f3794b5f1c23f7913b1e&p=6)
+
+[ 为什么我还是无法理解transformer？](/transformer_back_train.md)
+
+[注]：transformer的反向传播训练，讲得很好，和其他NN并无区别。

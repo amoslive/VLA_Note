@@ -20,4 +20,10 @@
 
 [注]：transformer的反向传播训练，讲得很好，和其他NN并无区别。
 
-[Transformer快速入门](https://transformers.run/c1/transformer/)  还挺全
+[Transformer快速入门](https://transformers.run/c1/transformer/)  
+>
+>还挺全
+>
+>[Transformer快速入门 第一章：自然语言处理](https://transformers.run/c1/nlp/)
+>
+>写得极好

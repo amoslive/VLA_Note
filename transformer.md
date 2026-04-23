@@ -19,3 +19,5 @@
 [ 为什么我还是无法理解transformer？](/transformer_back_train.md)
 
 [注]：transformer的反向传播训练，讲得很好，和其他NN并无区别。
+
+[Transformer快速入门](https://transformers.run/c1/transformer/)  还挺全

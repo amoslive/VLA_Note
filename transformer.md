@@ -29,3 +29,5 @@
 >写得极好
 
 [[Transformer 101系列] 多模态的大一统之路](https://zhuanlan.zhihu.com/p/643969218)  里面有讲BEV Transformer
+
+[在狼人杀策略游戏中带RL的语言智体 - 知乎]( https://zhuanlan.zhihu.com/p/681934337)
